@@ -76,8 +76,9 @@ Here are some ideas to get you started:
   <a href="https://developer.apple.com/swift/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Objective-C_logo.png" alt="objective-c" width="40" height="40"/> 
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Objective-C_logo.png" alt="objective-c" width="40" height="40"/>
+</a> 
   </a> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
