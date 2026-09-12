@@ -1,10 +1,8 @@
-<!-- Enable after the Metrics workflow generates github-metrics.svg.
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://raw.githubusercontent.com/caochuankuan/caochuankuan/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
   </a>
 </p>
--->
 
 ## Hi there 👋
 
