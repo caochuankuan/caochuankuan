@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/caochuankuan/caochuankuan/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  </a>
+</p>
+
 ## Hi there 👋
 
 <!--
@@ -92,4 +98,3 @@ Here are some ideas to get you started:
   <a href="https://kotlinlang.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
-
